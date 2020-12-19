@@ -1,7 +1,7 @@
 # Setup
 title:               Calabria Weather Data
 tagline:             'Wiki'
-description:         'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:         'La Wiki ufficiale di <a href="#" target="_blank">Calabria Weather Data</a>'
 url:                 http://cwd-wiki.tk
 baseurl:             ''
 paginate:            5
@@ -18,5 +18,5 @@ plugins:
   - jekyll-paginate
 
 # Custom vars
-version:             1.1.0
+version:             1.0.0
 google_analytics_id: UA-146052-15
