@@ -1,7 +1,7 @@
 # Setup
 title:               Calabria Weather Data
 tagline:             'Wiki'
-description:         'La Wiki ufficiale di <a href="#" target="_blank">Calabria Weather Data</a>'
+description:         'La Wiki ufficiale di <br><a href="#" target="_blank">Calabria Weather Data</a>'
 url:                 http://cwd-wiki.tk
 baseurl:             ''
 paginate:            5
