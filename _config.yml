@@ -6,6 +6,10 @@ url:                 http://cwd-wiki.tk
 baseurl:             ''
 paginate:            5
 permalink:           pretty
+collections:
+  api:
+    output: true
+    permalink: /api/:path/
 
 # About/contact
 author:
