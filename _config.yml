@@ -10,6 +10,9 @@ collections:
   api:
     output: true
     permalink: /api/:path/
+  software:
+    output: true
+    permalink: /software/:path/
 
 # About/contact
 author:
