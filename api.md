@@ -1,4 +1,9 @@
-﻿## Documentazione per le API
+---
+layout: page
+title: API
+---
+
+## Documentazione per le API
 |  Netatmo | Weatherlink | Wunderground |
 |--|--|--|
 |![netatmo](https://i.ibb.co/KyP3MBW/netatmo.png) | ![enter image description here](https://i.ibb.co/QkkPhjK/weatherlink.png)|![enter image description here](https://i.ibb.co/TL319K4/wunderground.png)|
