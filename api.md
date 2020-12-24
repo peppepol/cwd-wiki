@@ -7,10 +7,5 @@ title: API
 
 |  Netatmo | Weatherlink | Wunderground |
 | --- | --- | --- |
-| ![netatmo](https://i.ibb.co/SB6Z1x0/netatmo.png) | ![weatherlink](https://i.ibb.co/x3tr36L/weatherlink.png) | ![wunderground](https://i.ibb.co/njVJhWw/wunderground.png) |
-| [Vai >](/api/netatmo) | [Vai >](/api/weatherlinkapi) | [Vai >](/api/wunderground) |
-
-| Command | Description |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+| <div align="center">![netatmo](https://i.ibb.co/SB6Z1x0/netatmo.png)</div> | <div align="center">![weatherlink](https://i.ibb.co/x3tr36L/weatherlink.png)</div> | <div align="center">![wunderground](https://i.ibb.co/njVJhWw/wunderground.png)</div> |
+| <div align="center">[Vai >](/api/netatmo)</div> | <div align="center">[Vai >](/api/weatherlinkapi)</div> | <div align="center">[Vai >](/api/wunderground)</div> |
